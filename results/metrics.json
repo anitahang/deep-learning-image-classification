@@ -1,0 +1,8 @@
+﻿{
+  "accuracy": 0.9564,
+  "f1_score": 0.9541,
+  "latency_ms": 14.1,
+  "fps": 70.92,
+  "device": "NVIDIA RTX 3080 Ti",
+  "dataset": "Image Classification Benchmark"
+}

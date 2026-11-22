@@ -1,0 +1,24 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Model checkpoints and weights
+*.pth
+*.pt
+*.bin
+*.onnx
+
+# Data & logs
+data/raw/*
+!data/raw/README.md
+runs/
+logs/
+.vscode/
+.idea/
+.DS_Store

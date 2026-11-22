@@ -1,0 +1,10 @@
+﻿cff-version: 1.2.0
+message: "Vui long trich dan cong trinh theo thong tin ben duoi."
+authors:
+  - family-names: "Tran Thi Thanh"
+    given-names: "Hang"
+    affiliation: "Dai hoc Can Tho"
+title: "Ung dung hoc sau trong bai toan phan loai va nhan dien hinh anh"
+version: 1.0.0
+date-released: 2026-11-22
+license: MIT
